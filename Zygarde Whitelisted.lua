@@ -1,4 +1,4 @@
-local Ids = {
+return = {
   435431236, -- Owner Of Zygarde
   3597006122, -- General Maxy Staff Team Zygarde
   1213921558, -- OG british smug Staff Team Zygarde
@@ -93,4 +93,3 @@ local Ids = {
   3213063355, -- scriptmasters premium buyer Zygarde (500 robux)
   3611728229 -- Alex/.justalex5 premium buyer Zygarde (2 boosts)
 }
-return Ids
