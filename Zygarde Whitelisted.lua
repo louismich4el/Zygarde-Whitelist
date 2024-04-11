@@ -91,5 +91,6 @@ return = {
   5251105583, -- Imspecialise premium buyer Zygarde (2 boosts)
   3082022237, -- thebestflavorofpizzaispizza premium buyer Zygarde (500 robux)
   3213063355, -- scriptmasters premium buyer Zygarde (500 robux)
-  3611728229 -- Alex/.justalex5 premium buyer Zygarde (2 boosts)
+  3611728229, -- Alex/.justalex5 premium buyer Zygarde (2 boosts)
+  1275307589 -- Yoru/52489. Premium buyer Zygaarde (2 boosts)
 }
