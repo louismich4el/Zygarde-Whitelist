@@ -92,5 +92,6 @@ return = {
   3082022237, -- thebestflavorofpizzaispizza premium buyer Zygarde (500 robux)
   3213063355, -- scriptmasters premium buyer Zygarde (500 robux)
   3611728229, -- Alex/.justalex5 premium buyer Zygarde (2 boosts)
-  1275307589 -- Yoru/52489. Premium buyer Zygaarde (2 boosts)
+  1275307589, -- Yoru/52489. Premium buyer Zygaarde (2 boosts)
+  5686140156 -- Kevin/i_love_hot_coco premium buyer Zygarde (2 boosts)
 }
