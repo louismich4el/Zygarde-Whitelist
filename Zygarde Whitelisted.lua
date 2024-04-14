@@ -91,7 +91,13 @@ return = {
   5251105583, -- Imspecialise premium buyer Zygarde (2 boosts)
   3082022237, -- thebestflavorofpizzaispizza premium buyer Zygarde (500 robux)
   3213063355, -- scriptmasters premium buyer Zygarde (500 robux)
-  3611728229, -- Alex/.justalex5 premium buyer Zygarde (2 boosts)
+  4379445536, -- Alex/.justalex5 premium buyer Zygarde (2 boosts)
   1275307589, -- Yoru/52489. Premium buyer Zygaarde (2 boosts)
-  5686140156 -- Kevin/i_love_hot_coco premium buyer Zygarde (2 boosts)
+  5686140156, -- Kevin/i_love_hot_coco premium buyer Zygarde (2 boosts)
+  1717472307, -- fiolbacon Premium Buyer Zygarde (2 boosts)
+  2803806483, -- mrkaguya/Kaguya showcaser Yt
+  2424956716, -- ki1llerr premium buyer Zygarde (2 boosts)
+  1984523169, -- urself/gofk premium buyer Zygarde (500 robux)
+  392494725,
+  1043442024 -- malickthatguy premium buyer Zygarde ($6 paypal)
 }
