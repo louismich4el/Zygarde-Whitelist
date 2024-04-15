@@ -23,7 +23,7 @@ return {
   4541280525, -- Empty premium buyer Zygarde
   918301838, -- Abbys Premium Buyer Zygarde
   736025785,
-  707068692, -- Surj premium buyer Zygarde
+  763580635, -- Surj premium buyer Zygarde
   2656310046,
   900556945, -- LayedLow Premium buyer Zygarde
   89873685, -- Dima Premium buyer Zygarde
