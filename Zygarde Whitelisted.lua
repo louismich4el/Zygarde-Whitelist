@@ -2,7 +2,6 @@ return {
   435431236, -- Owner Of Zygarde
   3597006122, -- General Maxy Staff Team Zygarde
   1213921558, -- OG british smug Staff Team Zygarde
-  1025081267, -- Greenfire Staff team
   1518844397, -- Wyrizon Showcaser YT
   2447953102, -- Leo Friend
   5456258798,
