@@ -100,5 +100,6 @@ return {
   392494725,
   1043442024, -- malickthatguy premium buyer Zygarde ($6 paypal)
   4605810225,
-  3093261743
+  3093261743,
+  1885092662
 }
