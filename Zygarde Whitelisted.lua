@@ -5,6 +5,8 @@ return {
   1518844397, -- Wyrizon Showcaser YT
   2447953102, -- Leo Friend
   5456258798,
+  2669592713,
+  5790684440,
   2669592713, -- Sizzymk alt and main
   5368567679,
   1820878642, -- Kai's acc
