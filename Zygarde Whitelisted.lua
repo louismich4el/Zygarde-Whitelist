@@ -1,6 +1,7 @@
 return {
   435431236, -- Owner Of Zygarde
   3597006122, -- General Maxy Staff Team Zygarde
+  1314264685,
   1213921558, -- OG british smug Staff Team Zygarde
   5652712673,
   1518844397, -- Wyrizon Showcaser YT
