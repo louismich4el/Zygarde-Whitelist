@@ -2,6 +2,7 @@ return {
   435431236, -- Owner Of Zygarde
   3597006122, -- General Maxy Staff Team Zygarde
   3124360254,
+  667374112,
   5735168321,
   1711640991,
   3264637865,
