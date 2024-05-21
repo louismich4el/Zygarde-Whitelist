@@ -1,23 +1,13 @@
-return {
+return = {
   435431236, -- Owner Of Zygarde
   3597006122, -- General Maxy Staff Team Zygarde
-  3124360254,
-  667374112,
-  2061536197,
-  5735168321,
-  1711640991,
-  3264637865,
-  3678296907,
-  1314264685,
+  1314264685, -- Pogz Friend
   1213921558, -- OG british smug Staff Team Zygarde
-  5652712673,
   1518844397, -- Wyrizon Showcaser YT
   2447953102, -- Leo Friend
   5456258798,
-  2669592713,
-  5790684440,
   2669592713, -- Sizzymk alt and main
-  5368567679,
+  3124360254,
   1820878642, -- Kai's acc
   1983512436,
   2246860305, -- buyer Tay_choi or ptysoth
@@ -110,10 +100,16 @@ return {
   1984523169, -- urself/gofk premium buyer Zygarde (500 robux)
   392494725,
   1043442024, -- malickthatguy premium buyer Zygarde ($6 paypal)
-  4605810225,
-  3093261743,
-  1885092662,
-  3740208031,
-  371952121,
-  2383566863
+  4605810225, -- padr4k/capypadriso premium buyer Zygarde (2 boosts)
+  3093261743, -- cidkageno6969/Zai premium buyer Zygarde (2 boosts)
+  1885092662, -- sinner/detraceable premium buyer Zygarde (2 boosts)
+  3740208031, -- Azazel/azazelnn premium buyer Zygarde (2 boosts)
+  371952121, -- _synqixx_/Synqixx premium buyer Zygarde (3 boosts)
+  5652712673, -- ransom/wfltb premium buyer Zygarde (2 boosts)
+  3264637865, -- the honored one/akatabh Premium Buyer Zygarde (2 boosts)
+  1711640991,  -- SWAGGY/bootyhunting Premium Buyer Zygarde ($6 Paypal)
+  3678296907, -- Yuji itadori/killer_35363 premium buyer Zygarde (600 robux)
+  5735168321,
+  667374112, -- TickleBot_23/4d0x premium buyer Zygarde (600 robux)
+  2061536197 -- vuc./1vuc. Premium buyer Zygarde (2 boosts)
 }
