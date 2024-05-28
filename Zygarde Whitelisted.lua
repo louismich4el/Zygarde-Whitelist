@@ -3,6 +3,7 @@ return {
   3597006122, -- General Maxy Staff Team Zygarde
   1314264685, -- Pogz Friend
   1730073937,
+  1942280946,
   1213921558, -- OG british smug Staff Team Zygarde
   1518844397, -- Wyrizon Showcaser YT
   2447953102, -- Leo Friend
