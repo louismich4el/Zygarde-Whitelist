@@ -2,6 +2,7 @@ return {
   435431236, -- Owner Of Zygarde
   3597006122, -- General Maxy Staff Team Zygarde
   1314264685, -- Pogz Friend
+  1275515155,
   3867237586, -- lxst_zayn trial mod
   1907871703, -- therealaaronacc trial mod
   1730073937,
