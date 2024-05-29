@@ -3,6 +3,7 @@ return {
   3597006122, -- General Maxy Staff Team Zygarde
   1314264685, -- Pogz Friend
   1275515155,
+  4830566900,
   3867237586, -- lxst_zayn trial mod
   1907871703, -- therealaaronacc trial mod
   1730073937,
