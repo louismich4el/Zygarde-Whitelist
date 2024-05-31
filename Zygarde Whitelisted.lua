@@ -6,7 +6,7 @@ return {
   5737946173,
   1310503670,
   4830566900,
-  3867237586, -- lxst_zayn trial mod
+  3334152997, -- lxst_zayn trial mod
   1730073937,
   1942280946,
   1213921558, -- OG british smug Staff Team Zygarde
