@@ -38,6 +38,7 @@ return {
   89873685, -- Dima Premium buyer Zygarde
   3168269929, -- yourff2pro premium buyer Zygarde
   5481132289,
+  1275515155,
   4599795927, -- jm premium Buyer zygarde
   195690942, -- Hydranew Premium Buyer Zygarde and partner
   1344134058, -- Tray9120 Premiun buyer Zygarde
