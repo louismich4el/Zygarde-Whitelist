@@ -2,30 +2,19 @@ return {
   435431236, -- Owner Of Zygarde
   3597006122, -- General Maxy Staff Team Zygarde
   1314264685, -- Pogz Friend
-  1275515155,
-  6138565747,
-  3159071938,
-  6126148892,
-  1628254884,
-  2795647558,
-  589036053,
-  5048192557,
-  1447230166,
-  5737848630,
-  1179129723,
-  5552176857,
-  3469131599,
+  2348364805, -- Fallencarl friend alt and main
   3763751691,
-  2348364805,
-  5048236337,
-  3219018445,
-  5737946173,
-  1310503670,
-  4830566900,
+  5048192557, -- kvrma___ trial mod
+  5552176857, -- Ellernate/ellernate0252 tester Zygarde
+  1179129723, -- Mixi/mixiofc tester Zygarde
+  5737848630, -- Dre/dre_hitwari7669 tester Zygarde
+  1447230166, -- Zen/bro_itz_zen tester Zygarde
+  589036053, -- rimuru_tempest_anime tester Zygarde
+  1628254884, -- Swag/blacks0uls Zygarde tester
+  3159071938, -- Drive/drive1000 Zygarde Tester
   3334152997, -- lxst_zayn trial mod
-  1730073937,
-  1942280946,
-  1213921558, -- OG british smug Staff Team Zygarde
+  1275515155, -- fabianstyx Trial Mod
+  3469131599, -- Felix/justfelixhere trial mod but bro boosted twice (2 boosts)
   1518844397, -- Wyrizon Showcaser YT
   2447953102, -- Leo Friend
   5456258798,
@@ -52,7 +41,6 @@ return {
   89873685, -- Dima Premium buyer Zygarde
   3168269929, -- yourff2pro premium buyer Zygarde
   5481132289,
-  1275515155,
   4599795927, -- jm premium Buyer zygarde
   195690942, -- Hydranew Premium Buyer Zygarde and partner
   1344134058, -- Tray9120 Premiun buyer Zygarde
@@ -135,5 +123,14 @@ return {
   3678296907, -- Yuji itadori/killer_35363 premium buyer Zygarde (600 robux)
   5735168321,
   667374112, -- TickleBot_23/4d0x premium buyer Zygarde (600 robux)
-  2061536197 -- vuc./1vuc. Premium buyer Zygarde (2 boosts)
+  2061536197, -- vuc./1vuc. Premium buyer Zygarde (2 boosts)
+  1730073937, -- Enver/devluarmor._d premium buyer Zygarde (2 boosts)
+  1942280946, -- Sacred/sfbo premium buyer Zygarde (2 boosts)
+  4830566900, -- l3ak1m. premium buyer Zygarde (2 boosts)
+  5737946173, -- sk4lled alt and main premium buyer Zygarde(600)
+  1310503670,
+  5048236337, -- muqh partners alt and main
+  3219018445,
+  2795647558, -- will/will.howell Zygarde premium buyer (600 robux) alt and main
+  6138565747 -- Corrupted/corrupted_2222 Dev
 }
