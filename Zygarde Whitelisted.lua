@@ -4,7 +4,6 @@ return {
   1314264685, -- Pogz Friend
   2348364805, -- Fallencarl friend alt and main
   3763751691,
-  6145568230,
   5048192557, -- kvrma___ trial mod
   5552176857, -- Ellernate/ellernate0252 tester Zygarde
   1179129723, -- Mixi/mixiofc tester Zygarde
@@ -13,7 +12,7 @@ return {
   589036053, -- rimuru_tempest_anime tester Zygarde
   1628254884, -- Swag/blacks0uls Zygarde tester
   3159071938, -- Drive/drive1000 Zygarde Tester
-  3334152997, -- lxst_zayn trial mod
+  3867237586, -- lxst_zayn staff mod
   1275515155, -- fabianstyx Trial Mod
   3469131599, -- Felix/justfelixhere trial mod but bro boosted twice (2 boosts)
   1518844397, -- Wyrizon Showcaser YT
@@ -133,5 +132,6 @@ return {
   5048236337, -- muqh partners alt and main
   3219018445,
   2795647558, -- will/will.howell Zygarde premium buyer (600 robux) alt and main
+  6145568230,
   6138565747 -- Corrupted/corrupted_2222 Dev
 }
