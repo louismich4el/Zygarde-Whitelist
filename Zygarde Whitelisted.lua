@@ -4,6 +4,7 @@ return {
   1314264685, -- Pogz Friend
   2348364805, -- Fallencarl friend alt and main
   3763751691,
+  1237578039,
   5048192557, -- kvrma___ trial mod
   5552176857, -- Ellernate/ellernate0252 tester Zygarde
   1179129723, -- Mixi/mixiofc tester Zygarde
