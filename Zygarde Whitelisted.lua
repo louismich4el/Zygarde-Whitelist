@@ -4,12 +4,6 @@ return {
   1314264685, -- Pogz Friend
   2348364805, -- Fallencarl friend alt and main
   3763751691,
-  6206574442,
-  4042683261,
-  2287563612,
-  4236448833,
-  1028010928,
-  1237578039,
   5048192557, -- kvrma___ trial mod
   5552176857, -- Ellernate/ellernate0252 tester Zygarde
   1179129723, -- Mixi/mixiofc tester Zygarde
@@ -139,5 +133,10 @@ return {
   3219018445,
   2795647558, -- will/will.howell Zygarde premium buyer (600 robux) alt and main
   6145568230,
-  6138565747 -- Corrupted/corrupted_2222 Dev
+  6206574442, -- Corrupted/corrupted_2222 Dev
+  1237578039, -- redundantusser Zygarde premium buyer (2 boosts)
+  1028010928, -- marlon/dwrmot alt and main premium buyer Zygarde (2 boosts)
+  4236448833,
+  2287563612, -- Nick/nick07673 premium buyer Zygarde (2 boosts)
+  4042683261 -- dolphinintalktovic/ruinedachanceforvic. Premium buyer Zygarde (2 boosts)
 }
